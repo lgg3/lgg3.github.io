@@ -13,7 +13,7 @@
 		</tr>
 		
 		<tr>
-			<td rowspan="2"><img id="samsung" src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\lgg3.jpg" width="300" height="300"/></td>
+			<td rowspan="2"><img id="samsung" src="https://i.hizliresim.com/o6nooR.png" width="300" height="300"/></td>
 			<td align="center" ><font size="5"><a href="#özellikler">ÖZELLİKLER e gitmek için dokunun</a></font></td>
 		</tr>
 		
