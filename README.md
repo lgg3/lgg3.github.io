@@ -23,7 +23,7 @@
 		
 </table>
 
-<table align="center" border="2">
+<table align="center" border="2" height="400" width="300">
 
 		<tr>
 			<td align="center" id="özellikler"><font size="8">ÖZELLİKLER</font></td>
