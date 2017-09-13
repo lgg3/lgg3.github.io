@@ -66,9 +66,9 @@
 
 <table>
 		<tr>
-			<td><img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\lgg3.jpg" width="430" height="460"/></td>
-			<td><img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\lgg3+2.jpg"width="440" height="470"/></td>
-			<td><img src="C:\Users\Lenovo\Desktop\wwwroot\usayan.com\images\lgg3+3.jpg"width="440" height="470"/></td>
+			<td><img src="https://i.hizliresim.com/o6nooR.png" width="430" height="460"/></td>
+			<td><img src="https://i.hizliresim.com/8NmGV7.png"width="440" height="470"/></td>
+			<td><img src="https://i.hizliresim.com/DyoLQv.png"width="440" height="470"/></td>
 		</tr>
 </table>
 </body>
