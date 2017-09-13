@@ -68,7 +68,7 @@
 		<tr>
 			<td><img src="https://i.hizliresim.com/o6nooR.png" width="430" height="460"/></td>
 			<td><img src="https://i.hizliresim.com/o6nooR.png" width="440" height="470"/></td>
-			<td><img src="https://i.hizliresim.com/o6nooR.png" width="440" height="470"/></td>
+			<td><img src="https://i.hizliresim.com/8NmGV7.png" width="440" height="470"/></td>
 		</tr>
 </table>
 </body>
